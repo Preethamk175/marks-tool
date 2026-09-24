@@ -10,3 +10,6 @@ def main():
 	print("Highest:", highest(MARKS))
 if __name__ == "__main__":
 	main()
+from stats import average, highest, lowest
+...
+   print("Lowest:",lowest (MARKS))
